@@ -6963,7 +6963,7 @@
       }
     },
     "minimed-connect-to-nightscout": {
-      "version": "github:FredMK/minimed-connect-to-nightscout#0656bddb0bdd4bf625bff6bcdabf2da912de985e",
+      "version": "github:FredMK/minimed-connect-to-nightscout#fc9ed0fa4f4c8b45b128a38d6519d7ef56ba713e",
       "from": "github:FredMK/minimed-connect-to-nightscout#axios",
       "requires": {
         "axios": "^0.19.2",
