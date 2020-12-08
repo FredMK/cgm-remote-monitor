@@ -6331,7 +6331,7 @@
       }
     },
     "minimed-connect-to-nightscout": {
-      "version": "github:FredMK/minimed-connect-to-nightscout#ae4fcaf9563f8d8ed42fa38b5ab9d7da919f257b",  
+      "version": "github:FredMK/minimed-connect-to-nightscout#ae4fcaf9563f8d8ed42fa38b5ab9d7da919f257b",
       "from": "github:FredMK/minimed-connect-to-nightscout#axios",
       "requires": {
         "axios": "^0.19.2",
@@ -11398,7 +11398,6 @@
           "version": "2.0.1",
           "resolved": "https://registry.npmjs.org/extend-shallow/-/extend-shallow-2.0.1.tgz",
           "integrity": "sha1-Ua99YUrZqfYQ6huvu5idaxxWiQ8=",
-          "optional": true,
           "requires": {
             "is-extendable": "^0.1.0"
           }
@@ -11459,7 +11458,6 @@
           "version": "3.0.0",
           "resolved": "https://registry.npmjs.org/is-number/-/is-number-3.0.0.tgz",
           "integrity": "sha1-JP1iAaR4LPUFYcgQJ2r8fRLXEZU=",
-          "optional": true,
           "requires": {
             "kind-of": "^3.0.2"
           }
@@ -11468,7 +11466,6 @@
           "version": "3.2.2",
           "resolved": "https://registry.npmjs.org/kind-of/-/kind-of-3.2.2.tgz",
           "integrity": "sha1-MeohpzS6ubuw8yRm2JOupR5KPGQ=",
-          "optional": true,
           "requires": {
             "is-buffer": "^1.1.5"
           }
